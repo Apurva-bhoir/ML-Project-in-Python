@@ -7,7 +7,7 @@ from urllib.parse import quote_plus
 
 # --- Fetch Poster ---
 def fetch_poster_by_title(title):
-    api_key = "ed36898d"
+    api_key = "my api key"
     url = f"http://www.omdbapi.com/?t={quote_plus(title)}&apikey={api_key}"
     response = requests.get(url)
     data = response.json()
