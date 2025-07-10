@@ -3,7 +3,7 @@
 
 A **Movie Recommender System** built with **Python** using machine learning techniques.  
 The app suggests movies based on user preferences and ratings, utilizing a **content-based filtering** approach.
-“This is a functional project built with Streamlit, and NLP. Available on request or can be demoed live.”
+_This is a functional project built with Streamlit, and NLP. Available on request or can be demoed live._
 
 ---
 
