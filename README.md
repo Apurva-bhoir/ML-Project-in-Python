@@ -29,3 +29,5 @@ _This is a functional project built with Streamlit and NLP. Available on request
 - **Personalized Movie Suggestions** based on input data (like a user’s favorite genres or movies).
 
 ---
+## Developer
+Apurva Bhoir
